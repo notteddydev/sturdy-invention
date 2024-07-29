@@ -1,2 +1,2 @@
 # sturdy-invention
-A python script for reorganising media once it's been downloaded from snapchat.
+A python script for reorganising media downloaded from snapchat.
