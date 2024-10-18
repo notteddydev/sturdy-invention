@@ -1,3 +1,7 @@
+"""
+Was used for sorting through SnapChat media.
+"""
+
 import os
 import pathlib
 
